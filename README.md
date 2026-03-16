@@ -37,4 +37,3 @@ It helps organize multiple projects in one interface and demonstrates the techno
 - Add project search functionality
 - Add live demo links and GitHub repositories
 - Improve UI animations and transitions
-
