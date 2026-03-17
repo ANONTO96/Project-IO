@@ -19,7 +19,7 @@ const Footer = () => {
                     <p>
                         Project IO Ltd.
                         <br />
-                        Providing reliable tech since 2025
+                        Providing reliable tech solutions since 2025
                     </p>
                 </aside>
                 <nav>

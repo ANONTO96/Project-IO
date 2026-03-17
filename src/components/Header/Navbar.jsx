@@ -1,4 +1,4 @@
-
+import logo from '../../assets/logo.png';
 
 const Navbar = () => {
     return (
@@ -22,7 +22,7 @@ const Navbar = () => {
         <li><a>Installation</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">Project IO</a>
+    <a className="btn btn-ghost text-xl"><img className='w-6 h-6' src={logo} alt="Project IO Logo" />Project IO</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -40,7 +40,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</a>
+    <a className="btn bg-white hover:shadow-md rounded-xl hover:scale-105 transition-all duration-300 bg-linear-to-br from-purple-600 to-purple-400 text-white"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</a>
   </div>
 </div>
     );
