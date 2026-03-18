@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router';
 import logo from '../../assets/logo.png';
 
 const Navbar = () => {
@@ -10,37 +11,40 @@ const Navbar = () => {
       </div>
       <ul
         tabIndex="-1"
-        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
+        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow [&_a.active]:text-purple-600">
+        <li><NavLink to="/">Home</NavLink></li>
         <li>
-          <a>Apps</a>
+          <p>Apps</p>
           <ul className="p-2 bg-base-100 w-40 z-1">
-            <li><a>Web Apps</a></li>
-            <li><a>Mobile Apps</a></li>
+            <li><NavLink to="/Projects">Web Apps</NavLink></li>
+            <li><NavLink to="/Projects">Mobile Apps</NavLink></li>
           </ul>
         </li>
-        <li><a>Installation</a></li>
+        <li><NavLink to="/Installation">Installation</NavLink></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl"><img className='w-6 h-6' src={logo} alt="Project IO Logo" />Project IO</a>
+    <NavLink to="/" className="btn btn-ghost text-xl">
+      <img className='w-6 h-6' src={logo} alt="Project IO Logo" />
+      Project IO
+    </NavLink>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
+    <ul className="menu menu-horizontal px-1 [&_a.active]:text-purple-600">
+      <li><NavLink to="/">Home</NavLink></li>
       <li>
         <details>
           <summary>Apps</summary>
           <ul className="p-2 bg-base-100 w-40 z-1">
-            <li><a>Web Apps</a></li>
-            <li><a>Mobile Apps</a></li>
+            <li><NavLink to="/Projects">Web Apps</NavLink></li>
+            <li><NavLink to="/Projects">Mobile Apps</NavLink></li>
           </ul>
         </details>
       </li>
-      <li><a>Installation</a></li>
+      <li><NavLink to="/Installation">Installation</NavLink></li>
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn bg-white hover:shadow-md rounded-xl hover:scale-105 transition-all duration-300 bg-linear-to-br from-purple-600 to-purple-400 text-white"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</a>
+    <NavLink to="/Contribute" className="btn bg-white hover:shadow-md rounded-xl hover:scale-105 transition-all duration-300 bg-linear-to-br from-purple-600 to-purple-400 text-white"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</NavLink>
   </div>
 </div>
     );

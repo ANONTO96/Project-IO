@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?q=80&w=764&auto=format&fit=crop",
+    "title": "TaskMaster",
+    "companyName": "Prodify Inc.",
+    "description": "A productivity app to manage tasks efficiently.",
+    "size": 25,
+    "reviews": 1240,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1741478551723-4b7ce95cf395?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "FitTrack",
+    "companyName": "Healthify Ltd.",
+    "description": "Track workouts and monitor your fitness goals.",
+    "size": 40,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=764&auto=format&fit=crop",
+    "title": "NoteSnap",
+    "companyName": "WriteTech",
+    "description": "Capture and organize notes instantly.",
+    "size": 18,
+    "reviews": 670,
+    "ratingAvg": 4.0,
+    "downloads": 20000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 220 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=764&auto=format&fit=crop",
+    "title": "TravelMate",
+    "companyName": "GlobeX",
+    "description": "Your companion for planning trips worldwide.",
+    "size": 55,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 80000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1170 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?q=80&w=764&auto=format&fit=crop",
+    "title": "Foodie",
+    "companyName": "Taste Labs",
+    "description": "Discover and share amazing recipes.",
+    "size": 30,
+    "reviews": 1500,
+    "ratingAvg": 4.3,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 560 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?q=80&w=764&auto=format&fit=crop",
+    "title": "FinancePro",
+    "companyName": "MoneyWise",
+    "description": "Manage expenses and track your budget.",
+    "size": 35,
+    "reviews": 800,
+    "ratingAvg": 4.1,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://plus.unsplash.com/premium_photo-1721225465446-02f5b991a37f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "PhotoFix",
+    "companyName": "SnapStudio",
+    "description": "Edit photos with professional tools.",
+    "size": 60,
+    "reviews": 3000,
+    "ratingAvg": 4.6,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1550 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "LearnX",
+    "companyName": "EduCore",
+    "description": "Online courses for skill development.",
+    "size": 45,
+    "reviews": 2200,
+    "ratingAvg": 4.4,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1705077689363-76d4424a13c7?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "WeatherNow",
+    "companyName": "SkyNet",
+    "description": "Real-time weather updates and forecasts.",
+    "size": 20,
+    "reviews": 500,
+    "ratingAvg": 3.9,
+    "downloads": 15000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 130 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://plus.unsplash.com/premium_photo-1677870728119-52aef052d7ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "GameZone",
+    "companyName": "FunPlay",
+    "description": "A hub for casual and arcade games.",
+    "size": 75,
+    "reviews": 4100,
+    "ratingAvg": 4.8,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  }
+,
+   {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?w=400",
+    "title": "ChatFlow",
+    "companyName": "Connect Inc.",
+    "description": "Instant messaging with secure encryption.",
+    "size": 28,
+    "reviews": 1700,
+    "ratingAvg": 4.3,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 690 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400",
+    "title": "ShopEasy",
+    "companyName": "MarketHub",
+    "description": "Shop your favorite products online.",
+    "size": 50,
+    "reviews": 2600,
+    "ratingAvg": 4.5,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?w=400",
+    "title": "MusicWave",
+    "companyName": "SoundLab",
+    "description": "Stream and discover new music.",
+    "size": 65,
+    "reviews": 3300,
+    "ratingAvg": 4.6,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1850 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400",
+    "title": "MindCare",
+    "companyName": "Wellness Co.",
+    "description": "Meditation and mental health support.",
+    "size": 32,
+    "reviews": 900,
+    "ratingAvg": 4.2,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=400",
+    "title": "DriveSafe",
+    "companyName": "AutoTech",
+    "description": "Navigation and safe driving assistant.",
+    "size": 48,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 70000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 460 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400",
+    "title": "CodeLab",
+    "companyName": "DevWorks",
+    "description": "Learn coding interactively.",
+    "size": 70,
+    "reviews": 2000,
+    "ratingAvg": 4.7,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1060 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400",
+    "title": "NewsFlash",
+    "companyName": "MediaCorp",
+    "description": "Stay updated with global news.",
+    "size": 22,
+    "reviews": 600,
+    "ratingAvg": 3.8,
+    "downloads": 20000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400",
+    "title": "LanguagePro",
+    "companyName": "LinguaTech",
+    "description": "Learn new languages easily.",
+    "size": 38,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 85000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 750 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400",
+    "title": "SecureVault",
+    "companyName": "SafeTech",
+    "description": "Protect and manage your passwords securely.",
+    "size": 27,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": 55000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 85 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 350 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=400",
+    "title": "PetCare",
+    "companyName": "AnimalHub",
+    "description": "Track and manage your pet’s health and activities.",
+    "size": 33,
+    "reviews": 720,
+    "ratingAvg": 4.1,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 215 }
+    ]
+  }
+]
