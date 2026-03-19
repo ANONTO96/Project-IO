@@ -44,7 +44,9 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <NavLink to="/Contribute" className="btn bg-white hover:shadow-md rounded-xl hover:scale-105 transition-all duration-300 bg-linear-to-br from-purple-600 to-purple-400 text-white"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</NavLink>
+    <a href="https://github.com/ANONTO96"
+    rel="noopener noreferrer"
+    target="_blank" className="btn bg-white hover:shadow-md rounded-xl hover:scale-105 transition-all duration-300 bg-linear-to-br from-purple-600 via-slate-700 to-purple-400 text-white"><img className="w-5 h-5" src="https://img.icons8.com/?size=100&id=106562&format=png&color=000000" alt="" />Contribute</a>
   </div>
 </div>
     );
