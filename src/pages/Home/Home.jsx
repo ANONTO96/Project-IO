@@ -20,7 +20,7 @@ const Home = () => {
         <button className="btn bg-white hover:shadow-xl rounded-xl hover:scale-105 transition-all duration-300"><img className='w-5 h-5' src="https://img.icons8.com/?size=100&id=fKXXelWgP1B6&format=png&color=000000" alt="" />App Store</button>
       </div>
       {/* banner img */}
-      <img className='pt-5 px-10 md:px-16 lg:px-28' src={bannerImg} alt="Banner" />
+      <img className='pt-5 px-10 md:px-20 lg:px-36' src={bannerImg} alt="Banner" />
     </div>
   </div>
 </div>
@@ -28,7 +28,7 @@ const Home = () => {
 <div className='bg-linear-to-br from-purple-800 to-purple-400 text-white flex flex-col justify-center items-center py-10 md:py-14 lg:py-20'>
         <h1 className='font-semibold lg:font-bold text-3xl md:text-4xl lg:text-5xl'>Trusted By Millions, Built For You</h1>
         <div>
-            <div className="stats stats-vertical sm:stats-horizontal shadow">
+            <div className="stats stats-vertical sm:stats-horizontal">
   <div className="stat border-0">
     <div className="stat-title text-gray-200">Total Downloads</div>
     <div className="stat-value">2.5M</div>
